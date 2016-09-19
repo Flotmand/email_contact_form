@@ -1,5 +1,4 @@
 # email_contact_form
-Simple contact form that sends an email with the content + send a copy to the sender.
 
 This is a simple contact form that sends the content to an email address specified as a parameter in the contact_form()-function.
 The $site_url is used in the final email to tell the recipient from which website the message has been sent.
